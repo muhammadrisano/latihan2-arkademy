@@ -12,4 +12,8 @@ function print() {
     return cetak;
 
 }
+<<<<<<< HEAD
 console.log(print());
+=======
+console.log(print());
+>>>>>>> 07e2881917caf15af0bd12c75d8fb767ccaab064
